@@ -5,11 +5,28 @@
 </div>  
   
 
-### <div align="center">Soy un Desarrollador Web Junior apasionado por la tecnología, después de un cambio en mi vida al entrar en el mundo de la programación, adquiri un muy buen gusto a codear y ver todo lo que podemos lograr a través del código, actualmente estoy fortaleciendo mis conocimientos en un constante aprendizaje de tecnologías , por lo que en mi día a día no solo busco el crecimiento en lo personal sino también a nivel profesional…</div>  
+### <div align="center">Technology lover, follower of change and evolution, I believe in study and I confirm that knowledge is power.
+
+ ____
+    Amante de la tecnología, seguidor del cambio y la evolución, creo en el estudio y confirmo que el conocimiento es poder. 👨‍🎓💻
+  
+    La paciencia es el padre del buen carácter y para esta profesion se necesita tener mucha paciencia y tolerancia al fracaso. 🧘‍♂️
+
+    Creo que del fracaso se aprende mucho, los errores te ayudan a convertirte en un experto analizando código.😄
+ 
+    Soy un estudiante incansable de la tecnología, un fanático del progreso. 🥇
+ 
+    Este medio cambió mi vida y la forma en que Veo el mundo. 😄
+
+    Querer es poder y el poder es un privilegio, es la voluntad la que mueve ⬆️
+ 
+    La mejor victoria es superarte a ti mismo, nunca pensé en ser programador hasta que lo soñe y lo materialize.☑️
+  ___
+</div>  
   
 -  📫 Como llegar a mi **josperdev@gmail.com**  
 
-<br/>  
+___
 
 ## Mi conjunto de habilidades
 <table><tr><td valign="top" width="33%">
