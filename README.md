@@ -8,19 +8,19 @@
 ### <div align="center">Technology lover, follower of change and evolution, I believe in study and I confirm that knowledge is power.
 
  ____
-    Amante de la tecnología, seguidor del cambio y la evolución, creo en el estudio y confirmo que el conocimiento es poder.👨‍🎓
+ - Amante de la tecnología, seguidor del cambio y la evolución, creo en el estudio y confirmo que el conocimiento es poder.👨‍🎓
   
-    La paciencia es el padre del buen carácter y para esta profesion se necesita tener mucha paciencia y tolerancia al fracaso.🧘‍♂️
+ - La paciencia es el padre del buen carácter y para esta profesion se necesita tener mucha paciencia y tolerancia al fracaso.🧘‍♂️
 
-    Creo que del fracaso se aprende mucho, los errores te ayudan a convertirte en un experto analizando código.😄
+ - Creo que del fracaso se aprende mucho, los errores te ayudan a convertirte en un experto analizando código.😄
  
-    Soy un estudiante incansable de la tecnología, un fanático del progreso.💻🥇
+ - Soy un estudiante incansable de la tecnología, un fanático del progreso.💻🥇
  
-    Este medio cambió mi vida y la forma en que Veo el mundo.😄
+ - Este medio cambió mi vida y la forma en que Veo el mundo.😄
 
-    Querer es poder y el poder es un privilegio, es la voluntad la que mueve ⬆️
+ - Querer es poder y el poder es un privilegio, es la voluntad la que mueve ⬆️
  
-    La mejor victoria es superarte a ti mismo, nunca pensé en ser programador hasta que lo soñe y lo materialize.☑️
+ - La mejor victoria es superarte a ti mismo, nunca pensé en ser programador hasta que lo soñe y lo materialize.☑️
   ___
 </div>  
   
