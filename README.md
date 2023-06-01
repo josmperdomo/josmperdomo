@@ -2,8 +2,8 @@
 
 <div align="center"> 
  
- <img src= "(https://github.com/josperdev/josperdev/assets/116084732/a55c28c5-aaea-44b9-9af6-e27c15d8edb4)
-9vwYfrNN_osJPlxr8?e"/>
+ <img src= ![116084732](https://github.com/josperdev/josperdev/assets/116084732/13838d15-4f99-4fbe-94aa-8490f1f17600)
+/>
 
  
 </div>
