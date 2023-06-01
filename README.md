@@ -4,6 +4,8 @@
 <img src= "https://github.com/josperdev/josperdev/assets/116084732/13838d15-4f99-4fbe-94aa-8490f1f17600" alt="JosPerDev" width="150" height="150"/>
 </div>
 
+<br/>  
+<br/> 
 
 ### <div align="center">Technology lover, follower of change and evolution, I believe in study and I confirm that knowledge is power.
 
@@ -27,6 +29,10 @@
 -  📫 Como llegar a mi **josperdev@outlook.com / josperdev@gmail.com**  
 
 ___
+
+<br/>  
+<br/> 
+<br/> 
 
 ## Mi conjunto de habilidades
 <table><tr><td valign="top" width="33%">
@@ -73,7 +79,7 @@ ___
 <br/> 
 
 ## Alguno de mis proyectos
-<div valign="center" width="100%">
+<div align="center">
 
 <img src="https://github.com/josperdev/josperdev/assets/116084732/f53cf523-a7ac-4145-829f-7294874319df" alt="JosPerDev" width="200" height="100"/>
 <img src= "https://github.com/josperdev/josperdev/assets/116084732/91ed0916-348d-4711-9953-a9f2c6b35633" alt="JosPerDev" width="200" height="100"/>
