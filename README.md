@@ -74,7 +74,7 @@ ___
 ## Alguno de mis proyectos
 <div align="center"> 
 
-<a href="https://josperdev.github.io/project-arquitectura/" target="_blank"><p>Proyecto Arquitectura</p></a>
+<a href="https://josperdev.github.io/project-nucleus/" target="_blank"><p>Proyecto Arquitectura</p></a>
 <a href="https://josperdev.github.io/project-nucleus/" target="_blank"><p>Proyecto Nucleus</p></a> 
 <a href="https://josperdev.github.io/project-techpro-store/" target="_blank"><p>Proyecto Techpro</p></a> 
 <a href="https://josperdev.github.io/project-tienda-muebles/" target="_blank"><p>Proyecto Tienda Muebles</p></a>
