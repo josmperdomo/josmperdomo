@@ -73,7 +73,7 @@ ___
 <br/> 
 
 ## Alguno de mis proyectos
-<div valign="center">
+<div valign="center" width="100%">
 
 <img src="https://github.com/josperdev/josperdev/assets/116084732/f53cf523-a7ac-4145-829f-7294874319df" alt="JosPerDev" width="200" height="100"/>
 <img src= "https://github.com/josperdev/josperdev/assets/116084732/91ed0916-348d-4711-9953-a9f2c6b35633" alt="JosPerDev" width="200" height="100"/>
