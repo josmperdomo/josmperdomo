@@ -1,9 +1,5 @@
 ### Hi, I'm JosPerDev 👋
-
-<div align="center">
-<img src="[https://media-exp1.licdn.com/dms/image/C4E16AQGt44fkXLCO9w/profile-displaybackgroundimage-shrink_350_1400/0/1668110540025?e=1673481600&v=beta&t=zt_qynEQzMARwaUGnLND9iQ0pPRDuOoKS8nOh_QOKsQ](https://1drv.ms/i/s!AuQi8W2B3I59vwYfrNN_osJPlxr8?e=myHEqN)"/>
-</div>  
-  
+ 
 
 ### <div align="center">Technology lover, follower of change and evolution, I believe in study and I confirm that knowledge is power.
 
@@ -72,7 +68,7 @@ ___
 
 ## Conectatame
 <div align="center">
-<a href="https://www.linkedin.com/in/jose-manuel-perdomo-459179138/" target="_blank">
+<a href="https://www.linkedin.com/in/josperdev/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <!--<a href="https://instagram.com/drewr.dev" target="_blank">
