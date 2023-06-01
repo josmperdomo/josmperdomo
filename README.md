@@ -69,6 +69,7 @@ ___
 </td></tr></table>  
 
 <br/>  
+<table><tr><td valign="top" width="33%">
 
 ## Alguno de mis proyectos
 <div align="center"> 
@@ -80,7 +81,7 @@ ___
  <img src="https://github.com/josperdev/josperdev/assets/116084732/f53cf523-a7ac-4145-829f-7294874319df"
  alt="JosPerDev"/>
 </div>
-
+</td><td valign="top" width="33%">
 
 
 ## Conectatame
