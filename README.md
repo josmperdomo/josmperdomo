@@ -73,7 +73,7 @@ ___
 
 ## Alguno de mis proyectos
 <div align="center">
-<img src="https://github.com/josperdev/josperdev/assets/116084732/f53cf523-a7ac-4145-829f-7294874319df" alt="JosPerDev" width="150" height="100"/>
+<img src="https://github.com/josperdev/josperdev/assets/116084732/f53cf523-a7ac-4145-829f-7294874319df" alt="JosPerDev" width="200" height="100"/>
 <a href="https://josperdev.github.io/project-nucleus/" target="_blank"><p>Proyecto Nucleus</p></a> 
 <a href="https://josperdev.github.io/project-arquitectura/" target="_blank"><p>Proyecto Arquitectura</p></a>
 <a href="https://josperdev.github.io/project-techpro-store/" target="_blank"><p>Proyecto Techpro</p></a> 
