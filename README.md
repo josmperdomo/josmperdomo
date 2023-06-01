@@ -75,11 +75,11 @@ ___
 ## Alguno de mis proyectos
 <div align="center">
 
-
+<img src="https://github.com/josperdev/josperdev/assets/116084732/f53cf523-a7ac-4145-829f-7294874319df" alt="JosPerDev" width="200" height="100"/>
 <img src= "https://github.com/josperdev/josperdev/assets/116084732/91ed0916-348d-4711-9953-a9f2c6b35633" alt="JosPerDev" width="200" height="100"/>
 <!--<img src= "https://github.com/josperdev/josperdev/assets/116084732/99c5abca-b939-4a58-987e-41ad176ca468" alt="JosPerDev" width="200" height="100"/>-->
 <img src= "https://github.com/josperdev/josperdev/assets/116084732/a8d37afe-d99c-48b5-9693-6e1ba95a2e05" alt="JosPerDev" width="200" height="100"/>
-<a href="https://josperdev.github.io/project-techpro-store/" target="_blank"><img src="https://github.com/josperdev/josperdev/assets/116084732/f53cf523-a7ac-4145-829f-7294874319df" alt="JosPerDev" width="200" height="100"/></a> <p>Proyecto Techpro</p>
+<a href="https://josperdev.github.io/project-techpro-store/" target="_blank"><p>Proyecto Techpro</p></a> 
 <a href="https://josperdev.github.io/project-nucleus/" target="_blank"><p>Proyecto Nucleus</p></a>  
 <a href="https://josperdev.github.io/project-tienda-muebles/" target="_blank"><p>Proyecto Tienda Muebles</p></a>
 <a href="https://josperdev.github.io/project-arquitectura/" target="_blank"><p>Proyecto Arquitectura</p></a>
