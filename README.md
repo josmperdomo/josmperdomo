@@ -73,7 +73,7 @@ ___
 
 ## Alguno de mis proyectos
 <div align="center"> 
- <table><tr><td valign="top" width="33%">
+ <table><tr><td  width="33%">
 <a href="https://josperdev.github.io/project-arquitectura/" target="_blank"><p>Proyecto Arquitectura</p></a>
 <a href="https://josperdev.github.io/project-nucleus/" target="_blank"><p>Proyecto Nucleus</p></a> 
 <a href="https://josperdev.github.io/project-techpro-store/" target="_blank"><p>Proyecto Techpro</p></a> 
@@ -81,7 +81,7 @@ ___
 <a href="https://josperdev.github.io/project-viajes-chile/" target="_blank"><p>Proyecto Viajes Chile</p></a>
  <img src="https://github.com/josperdev/josperdev/assets/116084732/f53cf523-a7ac-4145-829f-7294874319df"
  alt="JosPerDev"/>
-  </td><td valign="top" width="33%">
+  </td><td  width="33%">
 </div>
 
 
