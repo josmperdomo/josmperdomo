@@ -73,6 +73,7 @@ ___
 
 ## Alguno de mis proyectos
 <div align="center">
+<img src="https://github.com/josperdev/josperdev/assets/116084732/c7e0f27b-59b2-4c79-96d7-99008461f64e" alt="JosPerDev" width="200" height="100"/>
 <img src="https://github.com/josperdev/josperdev/assets/116084732/f53cf523-a7ac-4145-829f-7294874319df" alt="JosPerDev" width="200" height="100"/>
 <img src= "https://github.com/josperdev/josperdev/assets/116084732/91ed0916-348d-4711-9953-a9f2c6b35633" alt="JosPerDev" width="200" height="100"/>
 <img src= "https://github.com/josperdev/josperdev/assets/116084732/99c5abca-b939-4a58-987e-41ad176ca468" alt="JosPerDev" width="200" height="100"/>
