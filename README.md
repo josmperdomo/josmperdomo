@@ -2,7 +2,8 @@
 
 <div align="center"> 
  
- <img src= "https://1drv.ms/i/s!AuQi8W2B3I59vwYfrNN_osJPlxr8?e"/>
+ <img src= "(https://github.com/josperdev/josperdev/assets/116084732/a55c28c5-aaea-44b9-9af6-e27c15d8edb4)
+9vwYfrNN_osJPlxr8?e"/>
 
  
 </div>
