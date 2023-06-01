@@ -69,7 +69,8 @@ ___
 </td></tr></table>  
 
 <br/>  
-
+<br/> 
+<br/> 
 
 ## Alguno de mis proyectos
 <div align="center">
