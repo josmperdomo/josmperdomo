@@ -66,6 +66,22 @@ ___
 
 <br/>  
 
+## Alguno de mis proyectos
+ <p>Proyecto
+Arquitectura<a href="https://josperdev.github.io/project-techpro-store/" target="_blank"></p>
+•
+Proyecto
+Nucleus
+•
+Proyecto
+Techpro
+•
+Proyecto
+Tienda Muebles
+•
+Proyecto
+Viajes Chile
+
 ## Conectatame
 <div align="center">
 <a href="https://www.linkedin.com/in/josperdev/" target="_blank">
