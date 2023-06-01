@@ -67,8 +67,11 @@ ___
 <br/>  
 
 ## Alguno de mis proyectos
- <a href="https://josperdev.github.io/project-techpro-store/" target="_blank"><p>Proyecto
+<div align="center"> 
+  <a href="https://josperdev.github.io/project-techpro-store/" target="_blank"> <p>Proyecto
 Arquitectura</p></a>
+</div>
+
 •
 Proyecto
 Nucleus
