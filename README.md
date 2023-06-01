@@ -1,11 +1,7 @@
 ### Hi, I'm JosPerDev 👋
 
 <div align="center"> 
- 
- <img src= "https://github.com/josperdev/josperdev/assets/116084732/13838d15-4f99-4fbe-94aa-8490f1f17600"
-/>
-
- 
+<img src= "https://github.com/josperdev/josperdev/assets/116084732/13838d15-4f99-4fbe-94aa-8490f1f17600" alt="JosPerDev" width="100" height="100"/>
 </div>
  
 
