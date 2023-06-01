@@ -86,7 +86,8 @@ ___
 <a href="https://josperdev.github.io/project-viajes-chile/" target="_blank"><p>Proyecto Viajes Chile</p></a>
 </div>
 
-
+<br/> 
+<br/> 
 
 ## Conectatame
 <div align="center">
@@ -102,7 +103,8 @@ ___
 </div>  
   
 <br/>  
-
+<br/> 
+<br/> 
 ## Estadísticas de Github 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=josperdev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
