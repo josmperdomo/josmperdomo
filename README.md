@@ -1,9 +1,11 @@
 ### Hi, I'm JosPerDev 👋
 
 <div align="center"> 
-<img src= "https://github.com/josperdev/josperdev/assets/116084732/13838d15-4f99-4fbe-94aa-8490f1f17600" alt="JosPerDev" width="100" height="100"/>
+<img class="jos" src= "https://github.com/josperdev/josperdev/assets/116084732/13838d15-4f99-4fbe-94aa-8490f1f17600" alt="JosPerDev" width="100" height="100"/>
 </div>
- 
+ .jos {
+ redius: 
+ }
 
 ### <div align="center">Technology lover, follower of change and evolution, I believe in study and I confirm that knowledge is power.
 
