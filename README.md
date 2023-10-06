@@ -86,6 +86,7 @@ ___
 <img src= "https://github.com/josperdev/josperdev/assets/116084732/1303ff64-56c9-44be-b45c-e42283c0ec9d" alt="JosPerDev" width="200" height="100"/>
 <img src= "https://github.com/josperdev/josperdev/assets/116084732/a9c24a8f-fa66-4880-96b8-0abbd65a969e" alt="JosPerDev" width="200" height="100"/>
 <img src= "https://github.com/josperdev/josperdev/assets/116084732/325e296a-5812-41ff-bbcc-90999b192a6b" alt="JosPerDev" width="200" height="100"/>
+<img src= "https://github.com/josperdev/josperdev/assets/116084732/e775ed09-a2c5-4abf-9234-b0772adcb530" alt="JosPerDev" width="200" height="100"/>
 <a href="https://josperdev.github.io/project-techpro-store/" target="_blank"><p>Proyecto Techpro</p></a> 
 <a href="https://josperdev.github.io/project-nucleus/" target="_blank"><p>Proyecto Nucleus</p></a>  
 <a href="https://josperdev.github.io/project-tienda-muebles/" target="_blank"><p>Proyecto Tienda Muebles</p></a>
