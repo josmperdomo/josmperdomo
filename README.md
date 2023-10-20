@@ -94,7 +94,7 @@ ___
 <a href="https://josmperdomo.github.io/project-arquitectura/" target="_blank"><p>Proyecto Arquitectura</p></a>
 <a href="https://josmperdomo.github.io/project-viajes-chile/" target="_blank"><p>Proyecto Viajes Chile</p></a>
 <a href="https://josmperdomo.github.io/proyecto-universidad/" target="_blank"><p>Proyecto Universidad</p></a>
-</div>
+</div> 
 
 <br/> 
 <br/> 
