@@ -26,7 +26,7 @@
   ___
 </div>  
   
--  📫 Como llegar a mi **josperdev@outlook.com / josperdev@gmail.com**  
+-  📫 Como llegar a mi **josmperdomo@outlook.com / josmperdomo@gmail.com**  
 
 ___
 
@@ -99,13 +99,13 @@ ___
 
 ## Conectatame
 <div align="center">
-<a href="https://www.linkedin.com/in/josperdev/" target="_blank">
+<a href="https://www.linkedin.com/in/josmperdomo/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <!--<a href="https://instagram.com/drewr.dev" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>-->
-<a href="https://github.com/josperdev" target="_blank">
+<a href="https://github.com/josmperdomo" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
