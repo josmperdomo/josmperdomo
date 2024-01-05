@@ -1,7 +1,7 @@
 ### Hi, I'm JosMperdomo 👋
 
 <div align="center"> 
-<img src= "https://github.com/josmperdomo/josmperdomo/assets/116084732/8a7ce652-b8ed-4f4d-a40d-c4d12865d789" width="300px"/>
+<img src= "https://github.com/josmperdomo/josmperdomo/assets/116084732/adf70f3c-d9b8-48e0-bc5f-73d866c218d7" width="300px"/>
 </div>
 
 <br/>  
