@@ -117,7 +117,7 @@ ___
 <br/>
 
 ## Estadísticas de Github 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=josperdev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=josmperdomo&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
@@ -125,7 +125,7 @@ ___
 <img src="https://komarev.com/ghpvc/?username=drewrdev&&style=flat-square" align="center" />
 </div>  
   
-<br/>  
+<br/>
 
 <div align="center"></div>
 <br />
