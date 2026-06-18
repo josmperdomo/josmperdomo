@@ -1,6 +1,6 @@
 ### Hi, I'm JosMperdomo 👋
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=josperdev&show_icons=true&count_private=true&hide_border=true" align="center" />
+<div align="center"> <img src= "https://github.com/josmperdomo/josmperdomo/assets/116084732/adf70f3c-d9b8-48e0-bc5f-73d866c218d7" width="300px"/>
 </div>  
 
 
