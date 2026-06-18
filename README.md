@@ -1,8 +1,8 @@
 ### Hi, I'm JosMperdomo 👋
 
-<div align="center"> 
-<img src= "<img src= "https://media.licdn.com/dms/image/v2/D4E03AQGhZWmDoYIxHQ/profile-displayphoto-scale_400_400/B4EZ7X17UhKEAg-/0/1781737700140?e=1783555200&v=beta&t=GogZnfiiUtIQrEfdLOZlecVQoknqXSX3370CWk3_dbU" width="300px"/>
-</div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=josperdev&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div>  
+
 
 <br/>  
 <br/> 
