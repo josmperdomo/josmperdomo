@@ -1,8 +1,7 @@
 ### Hi, I'm JosMperdomo 👋
 
 <div align="center"> 
-<img src= "<img width="896" height="1195" alt="WhatsApp Image 2026-06-17 at 18 25 43" src="https://github.com/user-attachments/assets/cfc11f84-054c-4af6-982d-da0bee56cd16" />
-" width="300px"/>
+<img src= "<img src= "https://github.com/josmperdomo/josmperdomo/assets/116084732/adf70f3c-d9b8-48e0-bc5f-73d866c218d7" width="300px"/>
 </div>
 
 <br/>  
