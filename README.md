@@ -11,9 +11,9 @@
  ____
  - Amante de la tecnología y la evolución, combinando mi formación en **Ingeniería en Control de Gestión** con el poder de la **Inteligencia Artificial Generativa**.👨‍🎓
   
- - Regresar al entorno académico después de 25 años me confirmó que la paciencia es el padre del buen carácter. Desarrollar sistemas multiagente y dominar los LLMs requiere resiliencia y tolerancia al fracaso.🧘‍♂️
+ - Desarrollar sistemas multiagente y dominar los LLMs requiere resiliencia y tolerancia al fracaso.🧘‍♂️
 
- - Creo que del fracaso se aprende mucho, iterar y corregir te ayuda a convertirte en un experto analizando código y refinando arquitecturas RAG.😄
+ - iterar y corregir te ayuda a convertirte en un experto analizando código y refinando arquitecturas RAG.😄
  
  - Soy un estudiante incansable, enfocado en automatizar flujos de trabajo, extraer KPIs y optimizar procesos empresariales con agentes autónomos.💻🥇
  
@@ -48,49 +48,6 @@ Actualmente me encuentro desarrollando soluciones impulsadas por **Modelos de Le
 
 <br/> 
 
-## 🛠️ Mi conjunto de habilidades Base
-<table><tr><td valign="top" width="33%">
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-### DevOps & Testing 
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://mochajs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mocha.png" alt="Mocha" height="50" /></a>  
-<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-<br/> 
 
 ## 🚀 Algunos de mis proyectos
 <div align="center">
@@ -112,29 +69,3 @@ Actualmente me encuentro desarrollando soluciones impulsadas por **Modelos de Le
 <a href="#" target="_blank"><p>🧠 DocuMind Pro (Desarrollo con Google AI Studio)</p></a>
 </div> 
 
-<br/> 
-<br/> 
-
-## Conéctate conmigo
-<div align="center">
-<a href="https://www.linkedin.com/in/josmperdomo/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/josmperdomo" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-<br/>  
-<br/> 
-
-## Estadísticas de Github 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=josmperdomo&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=josmperdomo&&style=flat-square" align="center" />
-</div>  
-  
-<br/>
