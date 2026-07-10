@@ -45,6 +45,3 @@ Actualmente me encuentro desarrollando soluciones impulsadas por **Modelos de Le
 *   **Fase 1 - Dominio del Prompting (El Cerebro):** Ingeniería rápida de prompts y Generación Aumentada por Recuperación (**RAG**) para consultas seguras de documentos sin alucinaciones.
 *   **Fase 2 - Control de Gestión & Datos:** Clasificación, extracción y resumen de grandes volúmenes de datos empresariales utilizando **IBM Granite**.
 *   **Fase 3 - Sistemas Multiagente (La Acción):** Liberación del poder de los agentes de IA. Diseño de flujos donde múltiples agentes cooperan (ej. lectura de bases, cálculo de presupuestos y llenado de formularios automáticos).
-
-
-
