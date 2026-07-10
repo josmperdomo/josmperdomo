@@ -6,22 +6,22 @@
 <br/>  
 <br/> 
 
-### <div align="center">AI Engineer | Control Management | Prompting & Agents 🚀
+### <div align="center">AI Engineer | Control Management | Prompting & Agents 
 
  ____
- - Amante de la tecnología y la evolución, combinando mi formación en **Ingeniería en Control de Gestión** con el poder de la **Inteligencia Artificial Generativa**.👨‍🎓
+ - Amante de la tecnología y la evolución, combinando mi formación en **Ingeniería en Control de Gestión** con el poder de la **Inteligencia Artificial Generativa**.
   
- - Desarrollar sistemas multiagente y dominar los LLMs requiere resiliencia y tolerancia al fracaso.🧘‍♂️
+ - Desarrollar sistemas multiagente y dominar los LLMs requiere resiliencia y tolerancia al fracaso.
 
- - iterar y corregir te ayuda a convertirte en un experto analizando código y refinando arquitecturas RAG.😄
+ - iterar y corregir te ayuda a convertirte en un experto analizando código y refinando arquitecturas RAG.
  
- - Soy un estudiante incansable, enfocado en automatizar flujos de trabajo, extraer KPIs y optimizar procesos empresariales con agentes autónomos.💻🥇
+ - Soy un estudiante incansable, enfocado en automatizar flujos de trabajo, extraer KPIs y optimizar procesos empresariales con agentes autónomos.
  
- - La IA cambió mi vida y la forma en que estructuro el conocimiento y los datos.😄
+ - La IA cambió mi vida y la forma en que estructuro el conocimiento y los datos.
 
- - Querer es poder y el poder es un privilegio, es la voluntad la que mueve ⬆️
+ - Querer es poder y el poder es un privilegio, es la voluntad la que mueve. 
  
- - La mejor victoria es superarte a ti mismo, transformando ideas en herramientas reales como asistentes de análisis de texto y flujos integrados.☑️
+ - La mejor victoria es superarte a ti mismo, transformando ideas en herramientas reales como asistentes de análisis de texto y flujos integrados.
  ___
 </div>  
   
