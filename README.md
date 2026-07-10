@@ -25,7 +25,7 @@
   ___
 </div>  
   
--  📫 Como llegar a mi **josmperdomo@outlook.com**  
+-  📫 Como llegar a mi **perdomomarcanojose@outlook.com**  
 
 ___
 
