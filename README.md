@@ -22,12 +22,7 @@
  - Querer es poder y el poder es un privilegio, es la voluntad la que mueve. 
  
  - La mejor victoria es superarte a ti mismo, transformando ideas en herramientas reales como asistentes de análisis de texto y flujos integrados.
- ___
-</div>  
-  
-### Cómo llegar a mí: **perdomomarcanojose@outlook.com**  
 
-___
 
 <br/>  
 <br/> 
@@ -45,3 +40,14 @@ Actualmente me encuentro desarrollando soluciones impulsadas por **Modelos de Le
 *   **Fase 1 - Dominio del Prompting (El Cerebro):** Ingeniería rápida de prompts y Generación Aumentada por Recuperación (**RAG**) para consultas seguras de documentos sin alucinaciones.
 *   **Fase 2 - Control de Gestión & Datos:** Clasificación, extracción y resumen de grandes volúmenes de datos empresariales utilizando **IBM Granite**.
 *   **Fase 3 - Sistemas Multiagente (La Acción):** Liberación del poder de los agentes de IA. Diseño de flujos donde múltiples agentes cooperan (ej. lectura de bases, cálculo de presupuestos y llenado de formularios automáticos).
+
+
+
+ ___
+</div>  
+  
+### Cómo llegar a mí: **perdomomarcanojose@outlook.com**  
+
+___
+
+
