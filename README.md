@@ -1,7 +1,7 @@
 ### Hi, I'm JosMperdomo 👋
 
-<div align="center"> <img src= "https://github.com/josmperdomo/josmperdomo/assets/116084732/adf70f3c-d9b8-48e0-bc5f-73d866c218d7" width="300px"/> <img width="1792" height="2390" alt="Gemini_Generated_Image_3apqld3apqld3apq" src="https://github.com/user-attachments/assets/a6146e58-1f14-4eb6-9009-1a653f5854b4" />
-</div>  
+<div align="center"> <img width="300px" alt="Gemini_Generated_Image_3apqld3apqld3apq" src="https://github.com/user-attachments/assets/a6146e58-1f14-4eb6-9009-1a653f5854b4" />
+</div> <img src= "https://github.com/josmperdomo/josmperdomo/assets/116084732/adf70f3c-d9b8-48e0-bc5f-73d866c218d7" width="300px"/>  
 
 
 <br/>  
