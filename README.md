@@ -25,23 +25,23 @@
  ___
 </div>  
   
--  📫 Cómo llegar a mí: **perdomomarcanojose@outlook.com**  
+### Cómo llegar a mí: **perdomomarcanojose@outlook.com**  
 
 ___
 
 <br/>  
 <br/> 
 
-## 🧠 Mi Especialización en IA y Automatización
+## Mi Especialización en IA y Automatización
 Actualmente me encuentro desarrollando soluciones impulsadas por **Modelos de Lenguaje Grande (LLMs)**, integrando análisis de datos corporativos y construcción de herramientas autónomas.
 
-### 📚 Ecosistema Google Cloud AI
+###  Ecosistema Google Cloud AI
 *   **Fase 1 - Fundamentos:** Introduction to Generative AI & Large Language Models (LLMs). Comprensión del procesamiento de lenguaje y casos de uso empresarial.
 *   **Fase 2 - Prompt Engineering:** Prompt Design in Agent Platform. Estrategias avanzadas y técnicas multimodales con Gemini para análisis de procesos.
 *   **Fase 3 - Datos Empresariales:** Vector Search, Embeddings y **Vertex AI Studio**. Búsqueda semántica en grandes bases de datos para extracción precisa de indicadores.
 *   **Fase 4 - Agentes Autónomos:** Dialogflow CX. Construcción de asistentes interactivos y flujos de trabajo para la validación y ordenamiento de KPIs.
 
-### 🤖 Ecosistema IBM AI
+###  Ecosistema IBM AI
 *   **Fase 1 - Dominio del Prompting (El Cerebro):** Ingeniería rápida de prompts y Generación Aumentada por Recuperación (**RAG**) para consultas seguras de documentos sin alucinaciones.
 *   **Fase 2 - Control de Gestión & Datos:** Clasificación, extracción y resumen de grandes volúmenes de datos empresariales utilizando **IBM Granite**.
 *   **Fase 3 - Sistemas Multiagente (La Acción):** Liberación del poder de los agentes de IA. Diseño de flujos donde múltiples agentes cooperan (ej. lectura de bases, cálculo de presupuestos y llenado de formularios automáticos).
