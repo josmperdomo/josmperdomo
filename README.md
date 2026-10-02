@@ -1,7 +1,8 @@
 ### Hi, I'm José Manuel Perdomo
 
-<div align="center"> <img width="300px" alt="Gemini_Generated_Image_3apqld3apqld3apq" src="https://github.com/user-attachments/assets/a6146e58-1f14-4eb6-9009-1a653f5854b4" />
+<div align="center"> <img width="1024" height="1536" alt="traje gris" src="https://github.com/user-attachments/assets/16d6fb75-cad3-48e8-994c-624dccbb0b33" />
 </div>
+
 
 <br/>  
 <br/> 
