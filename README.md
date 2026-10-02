@@ -1,6 +1,6 @@
 ### Hi, I'm José Manuel Perdomo
 
-<div align="center"> <img width="1024" height="1536" alt="traje gris" src="https://github.com/user-attachments/assets/16d6fb75-cad3-48e8-994c-624dccbb0b33" />
+<div align="center"> <img width="600" height="600" alt="traje gris" src="https://github.com/user-attachments/assets/16d6fb75-cad3-48e8-994c-624dccbb0b33" />
 </div>
 
 
